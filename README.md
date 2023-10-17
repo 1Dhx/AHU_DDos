@@ -1,7 +1,7 @@
 # AHU_DDos
 It is a tool belonging to the Arab Hackers Union team that performs the famous DoS attack 
 ___
-##How to install
+## How to install
 ```
 pkg update && pkg upgrade -y
 ```
